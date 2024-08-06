@@ -8,6 +8,7 @@ Steps:
    > I Actions Center
  R Turn off bluetooth icons
  I Turn off app list start
+ I Remove Action Center (set as User which may be weird in the future)
 
  R = Done through reg file
  I = Intune settings catalog: Test - New Hire Windows Settings 
